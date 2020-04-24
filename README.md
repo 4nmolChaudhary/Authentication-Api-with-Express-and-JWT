@@ -7,5 +7,6 @@ Dependencies
 - `Mongoose`
 - `JWT`
 - `@hapi/joi`
+- `bcryptjs`
 
 Request and Response for testing are made using **Postman**.
